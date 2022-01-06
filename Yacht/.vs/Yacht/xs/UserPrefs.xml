@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FD9E29A9-B2DB-7CF2-45ED-DEBEE65C1E46}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Gamemanager.cs">
+    <Files>
+      <File FileName="Assets/Script/DiceBehavior.cs" Line="55" Column="54" />
+      <File FileName="Assets/Script/DiceController.cs" Line="27" Column="13" />
+      <File FileName="Assets/Script/Gamemanager.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yacht" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="Gamemanager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e39064d8-13ab-4dba-babb-6535a19ec49e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
