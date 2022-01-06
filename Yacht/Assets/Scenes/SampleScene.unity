@@ -1803,7 +1803,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 30
-  m_Text: 'Reroll :'
+  m_Text: 'Roll :'
 --- !u!222 &849162183
 CanvasRenderer:
   m_ObjectHideFlags: 0
